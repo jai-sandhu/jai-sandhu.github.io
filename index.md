@@ -7,7 +7,7 @@
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
-Expected to graduate: september 2022  
+Expected to graduate: September 2022  
 
 ## Skills  
 
