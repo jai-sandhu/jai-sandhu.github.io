@@ -58,8 +58,8 @@ GitHub pages Jekyll Theme template author: Parker Moore
 Group Members (Group 10):  
 1. Jai Sandhu
 2. David Le
-3. Connor (FIX)
-4. suan(FIX) 
+3. Connor hryhoruk
+4. Huayi Chen
 
 
 
