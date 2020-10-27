@@ -21,6 +21,9 @@ If you have ever wanted to learn how to host a page on GitHub Pages, its quite s
 * you make the simple markdown file 
 
 
+### where to show andrew etters book
+* Basically were explaining how to host resume on github pages, going into specifics, but along the way, were gonna be going in depth on why were doing it this way and relating it to etters book
+
 
 
 
