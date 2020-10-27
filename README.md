@@ -25,7 +25,9 @@ If you have ever wanted to learn how to host a page on GitHub Pages, its quite s
 * Basically were explaining how to host resume on github pages, going into specifics, but along the way, were gonna be going in depth on why were doing it this way and relating it to etters book
 
 
+### at the ver least, explain why static site generatiors are inportant. 
 
+# also explain how to go into yml file and change things in it, ex. titel and other thigns you might want to add
 
 
 
