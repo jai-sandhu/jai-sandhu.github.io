@@ -2,14 +2,14 @@
 43 elbe road   
 204-298-9790  
 jaisandhu21@hotmail.com  
-## Education  
+## Education:  
 
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
 Expected to graduate: September 2022  
 
-## Skills  
+## Skills:  
 
 ### Teamwork  
 * Contributed on 3 Comp. Sci. Projects:  
@@ -29,9 +29,9 @@ I played the expediter and secondary leadership role, making sure everything was
 * Processing
 * Python  
 
-## Work experience  
+## Work experience:  
  
-### Projects:  
+### Projects  
 * worked On social media app.  
   Used Java through Android Studio, included SQL and user interface creation
 * Made a food selection app.  
@@ -40,7 +40,7 @@ I played the expediter and secondary leadership role, making sure everything was
   Initially made through Wix, but then went into HTML and made it more personable and useful. 
   
 
-## Activities and Interests  
+## Activities and Interests:  
 
 * Modding old games
 * Video games
