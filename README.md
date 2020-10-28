@@ -59,7 +59,8 @@ If you have ever wanted to learn how to host a page on GitHub Pages, its quite s
 &nbsp;  
 
 ## Authors and Acknowledgments  
-GitHub pages Jekyll Theme template author: Parker Moore  
+GitHub pages Jekyll Theme template author: [Parker Moore](https://github.com/parkr)  
+
 Group Members (Group 10):  
 1. Jai Sandhu
 2. David Le
@@ -74,7 +75,7 @@ Group Members (Group 10):
 
 ## FAQ  
 1. Why is markdown better than Word processor?  
-   a.  
+   a.
 
 2. How do I get GIF's to work on my Markdown file?  
    a. 
