@@ -1,2 +1,6 @@
 theme: jekyll-theme-architect
 title: Jai Sandhu's Resume
+author: Jai Sandhu
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
