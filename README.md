@@ -44,7 +44,7 @@ If you have ever wanted to learn how to host a page on GitHub Pages, its quite s
 &nbsp;  
 &nbsp;  
 &nbsp;  
-![Resume GIF](https://media.giphy.com/media/24XD1bhtMsm95D5AR8/giphy.gif))
+![Resume GIF](https://media.giphy.com/media/GCYpvQtCYQD5EBqXj5/giphy.gif))
 
 
 &nbsp;  
