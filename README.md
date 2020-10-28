@@ -1,7 +1,12 @@
 # Hosting a resume on Github Pages
 
 ## Intro 
-If you have ever wanted to learn how to host a page on GitHub Pages, its quite simple and convenient. We will be following andrew Etter's book _Modern Technical Writing_. It gives great examples and guidelines to follow from hosting online content to why you should do it.  
+
+
+
+If you have ever wanted to learn how to host a page on the web. GitHub Pages is a great place to start. Its simple, convenient, and completely free. So you won't need to sacrafice a day without coffee to host a website. We will be following andrew Etter's book _Modern Technical Writing_. It gives great examples and guidelines to follow from hosting online content to why you should do it.  
+
+To get started, you need to get your self a Github account. If you haven't had any experience with GitHub, its known as a code hosting platform that uses Distributed Version Control System (DVSM). As Etter explains, DVSM's are 
 
 
 * start with why github
