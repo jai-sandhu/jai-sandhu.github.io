@@ -22,12 +22,12 @@ You can see the difference Jekyll makes through the pictures below. Showing a be
 
 
 **Without Jekyll:**  
-<img src="https://i.postimg.cc/2SBgR9tr/Capture.png" width="480">
+<img src="https://github.com/jai-sandhu/jai-sandhu.github.io/blob/main/media/pic.png" width="480">
 
 &nbsp;  
 
 **With Jekyll:**  
-![Resume with Jekyll GIF](https://media.giphy.com/media/GCYpvQtCYQD5EBqXj5/giphy.gif)
+![Resume with Jekyll GIF](https://github.com/jai-sandhu/jai-sandhu.github.io/blob/main/media/gif.gif)
 
 
 # also explain how to go into yml file and change things in it, ex. titel and other thigns you might want to add
