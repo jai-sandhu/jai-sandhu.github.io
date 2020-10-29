@@ -1,7 +1,7 @@
 # Hosting a resume on Github Pages
 
 ## Intro
-If you have ever wanted to learn how to host a page on the web. GitHub Pages is a great place to start. Its simple, convenient, and completely free. So you won't need to sacrafice a day without coffee to host a website. you will be using andrew Etter's book _Modern Technical Writing_ as a side project. It gives great examples and guidelines to follow from hosting online content to why you should do it.  
+If you have ever wanted to learn how to host a page on the web. GitHub Pages is a great place to start. It's simple, convenient, and completely free. So you won't need to sacrifice a day without coffee to host a website. You will be using Andrew Etter's book _Modern Technical Writing_ as a side project. It gives great examples and guidelines to follow, explaining why to host online content, and how to do it.  
 
 ## Getting started
 To get started, you need to get your self a Github account. If you haven't had any experience with GitHub, its known as a code hosting platform that uses a Distributed Version Control System (DVCS). DVCS's is a version control type where everything done to the code is saved. It gives you the full history of whats happened to the each file. It also makes it so all changes are mirrored on every developers computer thats part of the project. Etter explains "The basics are that DVCS have better performance, allow for offline work, and are superior for concurrent work on the same file." All you need to know for now is that this is the website you will be using to host your resume. Specifically using a feature called GitHub pages. More on this later.  
