@@ -21,8 +21,8 @@ Now that the repository is set up, you will need to create an index.md<span> fil
 ## GitHub Editors
 You know how to write Markdown now and have a place to store it on GitHub. But where will you be writing it, though GitHub has an editor, it doesn't provide you with a live preview of what you're writing or how the final output will look. There are many tools you can use to do this. I use Visual Studio Code, with the markdown preview extension. You can also clone your repository right into Visual Studio and push all your changes right from the terminal. If this is your first time reading languages such as push, clone, or terminal. Don't feel overwhelmed, you can skip over this and just copy-paste straight from your Markdown file into the file in your GitHub Repository. This is just if you have the knowledge of git and want to take full advantage.   
 
-## Entering your resume into GitHub
-To enter your Markdown formatted resume into the index.md<span> file:  
+## Entering your resume into GitHub  
+
 1. Open up the index file
 2. Click the edit button on the top right of the page.
 3. Paste your resume.
