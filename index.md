@@ -7,7 +7,7 @@ jaisandhu21@hotmail.com
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
-Expected to graduate: September 2022  
+Expected to graduate: February 2022  
 
 ## Skills:  
 
@@ -15,8 +15,8 @@ Expected to graduate: September 2022
 * Contributed on 3 Comp. Sci. Projects:  
 I played the expediter and secondary leadership role, making sure everything was done on time and we all kept on task.  
 
-* Part some cultural committes:  
-  Planned culturl festivals in highschools, played the role of the informaiton gatherer. 
+* Previously Part of cultural committe:  
+  Planned culturl festival in highschool, played the role of the informaiton gatherer. 
 
 ### Communication
 * part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
@@ -27,6 +27,11 @@ I played the expediter and secondary leadership role, making sure everything was
 * C++
 * C
 * Processing
+* Android Studio
+
+### General
+* proficiency in Microsoft Office (Word, Excel, etc.)
+* Have built my own PC (Through onine guides)
 
 ## Work experience:  
  
@@ -36,7 +41,13 @@ I played the expediter and secondary leadership role, making sure everything was
 * Made a food selection app.  
   Made through HTML, Mainly handled user interface and content provided on display. 
 * created website for trucking company.  
-  Initially made through Wix, but then went into HTML and made it more personable and useful. 
+  Initially made through Wix, but then went into HTML and made it more personable and useful.
+  
+### Jobs
+* High-school basketball referee
+* Gas station clerk
+* Home Depot associate
+* some website creation through Wix and then used HTML better it
   
 
 ## Activities and Interests:  
