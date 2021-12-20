@@ -22,7 +22,7 @@ I played the expediter and secondary leadership role, making sure everything was
   Planned culturl festival in highschool, played the role of the informaiton gatherer. 
 
 ### Communication
-* part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
+* Part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
 * When volunteering at highschool compter science courses, helped communicate code in a easy to understand manner. 
 
 ### Laguages
@@ -30,7 +30,7 @@ I played the expediter and secondary leadership role, making sure everything was
 * C++
 * C
 * Processing
-* Android Studio
+* partly Android Studio
 
 ### General
 * proficiency in Microsoft Office (Word, Excel, etc.)
@@ -39,23 +39,23 @@ I played the expediter and secondary leadership role, making sure everything was
 ## Work experience:  
  
 ### Projects  
-* worked on social media app (University project).  
+* Worked on social media app (University project).  
   Used Java through Android Studio, included SQL and user interface creation
 * Made a food selection app for university (University project).  
   Made through HTML, Mainly handled user interface and content provided on display. 
-* created website for trucking company.  
+* Created website for trucking company.  
   Initially made through Wix, but then went into HTML and made it more personable and useful.
   
 ### Jobs
 * High-school basketball referee
 * Gas station clerk
 * Home Depot associate
-* some website creation through Wix and then used HTML for unique changes
+* Some website creation through Wix and then used HTML for unique changes
   
 
 ## Activities and Interests:  
 
 * Video games
 * Basketball 
-* food
+* Food
   
