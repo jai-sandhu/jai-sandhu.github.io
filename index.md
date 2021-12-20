@@ -39,9 +39,9 @@ I played the expediter and secondary leadership role, making sure everything was
 ## Work experience:  
  
 ### Projects  
-* worked On social media app.  
+* worked on social media app (University project).  
   Used Java through Android Studio, included SQL and user interface creation
-* Made a food selection app.  
+* Made a food selection app for university (University project).  
   Made through HTML, Mainly handled user interface and content provided on display. 
 * created website for trucking company.  
   Initially made through Wix, but then went into HTML and made it more personable and useful.
