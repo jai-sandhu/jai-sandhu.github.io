@@ -50,7 +50,7 @@ I played the expediter and secondary leadership role, making sure everything was
 * High-school basketball referee
 * Gas station clerk
 * Home Depot associate
-* some website creation through Wix and then used HTML better it
+* some website creation through Wix and then used HTML for unique changes
   
 
 ## Activities and Interests:  
