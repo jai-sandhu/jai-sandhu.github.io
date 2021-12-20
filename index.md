@@ -27,7 +27,6 @@ I played the expediter and secondary leadership role, making sure everything was
 * C++
 * C
 * Processing
-* Python  
 
 ## Work experience:  
  
@@ -42,7 +41,7 @@ I played the expediter and secondary leadership role, making sure everything was
 
 ## Activities and Interests:  
 
-* Modding old games
 * Video games
 * Basketball 
+* food
   
