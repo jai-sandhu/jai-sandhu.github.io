@@ -9,6 +9,9 @@ University of manitoba
 Major: Computer Science  
 Expected to graduate: February 2022  
 
+Highschool Diploma:  
+Maples Colligate - 2016
+
 ## Skills:  
 
 ### Teamwork  
