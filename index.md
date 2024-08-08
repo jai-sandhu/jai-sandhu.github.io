@@ -13,7 +13,7 @@ University of manitoba
 Major: Computer Science  
 Graduated: February 2022  
 
-Highschool Diploma:  
+**Highschool Diploma**
 Maples Colligate - 2016
 
 ## Skills:  
@@ -27,7 +27,7 @@ I played the expediter and secondary leadership role, making sure everything was
 
 ### Communication
 * Part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
-* When volunteering at highschool compter science courses, helped communicate code in a easy to understand manner. 
+* When volunteering at highschool computer science courses, helped communicate code in a easy to understand manner. 
 
 ### Laguages
 * Java
@@ -49,7 +49,7 @@ I played the expediter and secondary leadership role, making sure everything was
   Initially made through Wix, but then went into HTML and made it more personable and useful.
   
 ### Jobs
-* RBC help.desk officer 2023 - present
+* RBC Help Desk officer 2023 - present
 * RBC security analyst 2022 - 2023
 * Home Depot associate 2018 - 2022
 * Some website creation through Wix and then used HTML for unique changes
