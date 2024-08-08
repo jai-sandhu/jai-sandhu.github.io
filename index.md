@@ -4,6 +4,10 @@
 jaisandhu21@hotmail.com  
 ## Education:  
 
+**Certificates**  
+COMPTIA security+ - 2024
+Currently working towards PCEP
+
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
