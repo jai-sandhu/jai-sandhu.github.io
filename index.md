@@ -7,7 +7,7 @@ jaisandhu21@hotmail.com
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
-Expected to graduate: February 2022  
+Graduated: February 2022  
 
 Highschool Diploma:  
 Maples Colligate - 2016
@@ -29,8 +29,6 @@ I played the expediter and secondary leadership role, making sure everything was
 * Java
 * C++
 * C
-* Processing
-* partly Android Studio
 
 ### General
 * proficiency in Microsoft Office (Word, Excel, etc.)
@@ -47,9 +45,9 @@ I played the expediter and secondary leadership role, making sure everything was
   Initially made through Wix, but then went into HTML and made it more personable and useful.
   
 ### Jobs
-* High-school basketball referee
-* Gas station clerk
-* Home Depot associate
+* RBC help.desk officer 2023 - present
+* RBC security analyst 2022 - 2023
+* Home Depot associate 2018 - 2022
 * Some website creation through Wix and then used HTML for unique changes
   
 
