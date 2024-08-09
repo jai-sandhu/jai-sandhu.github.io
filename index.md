@@ -5,7 +5,7 @@ jaisandhu21@hotmail.com
 ## Education:  
 
 **Certificates**  
-COMPTIA security+ - 2024
+COMPTIA security+ - 2024    
 Currently working towards PCEP
 
 **Bachelor of Science**  
@@ -14,7 +14,7 @@ Major: Computer Science
 Graduated: February 2022  
 
 **Highschool Diploma**
-Maples Colligate - 2016
+Maples Colligate - 2016   
 
 ## Skills:  
 
