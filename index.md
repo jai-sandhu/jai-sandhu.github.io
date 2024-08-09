@@ -27,7 +27,7 @@ I played the expediter and secondary leadership role, making sure everything was
 
 ### Communication
 * Part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
-* When volunteering at highschool computer science courses, helped communicate code in a easy to understand manner. 
+* Helping yo communicate in a concise manner on how to fix problems agents are habing when dealing with accouts whilst working HelpDesk 
 
 ### Laguages
 * Java
