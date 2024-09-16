@@ -1,42 +1,18 @@
 ## General Information:  
 43 elbe road   
 204-298-9790  
-jaisandhu21@hotmail.com  
+jaijaisandhu21@gmail.com
 ## Education:  
 
-**Certificates**  
-COMPTIA security+ - 2024    
-Currently working towards PCEP
 
 **Bachelor of Science**  
 University of manitoba   
 Major: Computer Science  
 Graduated: February 2022  
 
-**Highschool Diploma**
-Maples Colligate - 2016   
 
-## Skills:  
-
-### Teamwork  
-* Contributed on 3 Comp. Sci. Projects:  
-I played the expediter and secondary leadership role, making sure everything was done on time and we all kept on task.  
-
-* Previously Part of cultural committe:  
-  Planned culturl festival in highschool, played the role of the informaiton gatherer. 
-
-### Communication
-* Part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
-* Helping yo communicate in a concise manner on how to fix problems agents are habing when dealing with accouts whilst working HelpDesk 
-
-### Laguages
-* Java
-* C++
-* C
-
-### General
-* proficiency in Microsoft Office (Word, Excel, etc.)
-* Have built my own PC (Through onine guides)
+**Certificates**  
+COMPTIA security+ - 2024    
 
 ## Work experience:  
  
@@ -51,13 +27,22 @@ I played the expediter and secondary leadership role, making sure everything was
 ### Jobs
 * RBC Help Desk officer 2023 - present
 * RBC security analyst 2022 - 2023
-* Home Depot associate 2018 - 2022
-* Some website creation through Wix and then used HTML for unique changes
-  
+* Home Depot associate 2017 - 2022
 
-## Activities and Interests:  
+## Skills:  
 
-* Video games
-* Basketball 
-* Food
-  
+### Teamwork  
+* Contributed on 3 Comp. Sci. Projects:  
+I played the expediter and secondary leadership role, making sure everything was done on time and we all kept on task.  
+
+* Previously Part of cultural committe:  
+  Planned culturl festival in highschool, played the role of the informaiton gatherer. 
+
+### Communication
+* Part of Associate group at Home Depot where we provide the entirety of the associates concerns, mediate through them, and communicate them to management.
+* Helping yo communicate in a concise manner on how to fix problems agents are habing when dealing with accouts whilst working HelpDesk 
+
+### General
+* proficiency in Microsoft Office (Word, Excel, etc.)
+* Have built my own PC 
+
